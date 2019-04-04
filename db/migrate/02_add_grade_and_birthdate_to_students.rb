@@ -1,2 +1,2 @@
-class add_column 
+class add_column < ActiveRecord::Migration[5.1]
 end 
