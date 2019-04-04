@@ -1,4 +1,4 @@
-class add_column < ActiveRecord::Migration[5.1]
+class add_new_columns < ActiveRecord::Migration[5.1]
   
   def change 
     
